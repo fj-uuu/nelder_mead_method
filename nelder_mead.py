@@ -3,12 +3,10 @@
 
 # ### Nelder Mead Method
 #  * clone by https://github.com/fchollet/nelder-mead.git
-#  * 参考1 : http://bicycle1885.hatenablog.com/entry/2015/03/05/040431
-#  * 参考2 : https://codesachin.wordpress.com/2016/01/16/nelder-mead-optimization/
+#  * 参考 : http://bicycle1885.hatenablog.com/entry/2015/03/05/040431
 #  * 元のプログラム : https://github.com/fchollet/nelder-mead/blob/master/nelder_mead.py
 #  滑降シンプレックス法、アメーバ法と呼ばれる方法
 #
-#  基本的にはシンプレックス法とは無関係
 #
 # ２００行程度ものなので比較的簡単
 
