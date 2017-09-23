@@ -3,7 +3,8 @@
 このプログラムは元のソースコード著作者の意志に基づき、GNU General Public License v2.0に帰属します。
 
 とは書きましたが自分もよくわかってません。
-参考（　http://mycode.snow69it.net/998/　）などによれば改編、公開等は行なっても大丈夫だけど、
+参考（　http://mycode.snow69it.net/998/　）
+などによれば改編、公開等は行なっても大丈夫だけど、
 同じようにGNU General Public License v2.0のライセンスだって書いてね。
 くらいのようです。
 
